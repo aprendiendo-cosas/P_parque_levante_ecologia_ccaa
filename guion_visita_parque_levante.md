@@ -2,7 +2,7 @@
 
 > + **_Versión_**: 2020-2021
 > + **_Asignatura (grado)_**: Ecología (CCAA)
-> + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
+> + **_Autores_**: Curro Bonet-García (fjbonet@uco.es) y Nacho Montero (Ayuntamiento de Córdoba)
 > + **Duración**: Aproximadamente 2 horas.
 
 
