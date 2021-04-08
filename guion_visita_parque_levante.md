@@ -5,9 +5,7 @@
 > + **_Autores_**: Curro Bonet-García (fjbonet@uco.es) y Nacho Montero (Ayuntamiento de Córdoba)
 > + **Duración**: Aproximadamente 2 horas.
 
-
-
-![portada](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/main/presentacion/images/portada.png)
+![portada](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/main/imagenes/portada.png)
 
 
 
