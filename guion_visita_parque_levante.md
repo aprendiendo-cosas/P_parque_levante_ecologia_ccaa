@@ -7,6 +7,10 @@
 
 
 
+![portada](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/main/presentacion/images/portada.png)
+
+
+
 ## Objetivos 
 
 Esta práctica consiste en realizar una visita a un parque que está en construcción a las afueras de la ciudad de Córdoba. Es el Parque de Levante. Forma parte de la red de espacios verdes de la ciudad. Esta visita tiene varios objetivos:
