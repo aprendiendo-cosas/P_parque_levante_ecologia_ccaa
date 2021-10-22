@@ -5,7 +5,7 @@
 > + **_Autores_**: Curro Bonet-García (fjbonet@uco.es) y Nacho Montero (Ayuntamiento de Córdoba)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/main/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/2020-2021/imagenes/portada.png)
 
 
 
@@ -34,7 +34,7 @@ Esta zona forma parte de la red de zonas verdes de Córdoba, que persigue crear 
 
 
 
-![zonas_verdes](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/main/imagenes/red_parques.png)
+![zonas_verdes](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/2020-2021/imagenes/red_parques.png)
 
 
 
@@ -52,7 +52,7 @@ Durante la sesión se abordarán las siguientes cuestiones:
   + Otro aspecto importante es conocer la historia pasada de la zona a restaurar. En nuestro caso se trata de un solar abandonado que hace años era un olivar. La siguiente imagen muestra la fotografía aérea de la zona en 1956 (izquierda) y en la actualidad (derecha).
 + Por último hablaremos de los servicios que puede aportar un parque como el de Levante a los habitantes de la ciudad de Córdoba. Para ello introduciremos el concepto de [servicio ecosistémico](https://es.wikipedia.org/wiki/Servicios_del_ecosistema). 
   
-  ![pasado](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/main/imagenes/uso_pasado.png)
+  ![pasado](https://github.com/aprendiendo-cosas/P_parque_levante_ecologia_ccaa/raw/2020-2021/imagenes/uso_pasado.png)
 
 + Importancia del monitoreo de las actividades de restauración. Todo plan de restauración tiene unos objetivos concretos. Para evaluar en qué medida se satisfacen o no dichos objetivos, es fundamental definir un plan de monitoreo. Dicho plan consiste en seleccionar una serie de variables biofísicas que serán evaluadas periódicamente. Su evolución en el tiempo (serie temporal) indicará si se van cumpliendo o no los objetivos de restauración. Durante la sesión trataremos de elaborar una propuesta preliminar de programa de monitoreo del parque de Levante. Para abordar adecuadamente esta parte de la práctica, os recomiendo que le echéis un vistazo a las páginas 27 a 41 de [este](http://repository.humboldt.org.co/bitstream/handle/20.500.11761/9281/monitoreo_restauracion_baja_1.pdf?sequence=1) libro.
 
